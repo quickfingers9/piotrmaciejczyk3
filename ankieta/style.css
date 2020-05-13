@@ -1,0 +1,72 @@
+body
+{
+	background-image:url(../img/cool.jpg);
+	background-repeat:repeat;
+}
+
+.article
+{
+	margin: 0 auto;
+	width: 100%;
+}
+			
+.header
+{
+	color: white;
+	width: 100%;
+	height: 90px;
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 3px 5px black;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background-color:#bb5dff;
+}
+				
+
+.text
+{
+	color:white;
+	width: 55%;
+	height: 55%;
+	text-align: left;
+	float: left;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 20px;
+	font-family: monospace;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+		
+
+.foot
+{
+	background-color: #ed0261;
+	height: 40px;
+	width: 100%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 20px;
+	font-family: "Inconsolata";
+	clear: both;
+	text-align: center;
+}
+
+p
+{
+	text-align: left;
+}
+h2
+{
+	text-align:left;
+	color:white;
+	text-shadow: 1px 1px red;
+}
+
+h3
+{
+	text-align: left;
+	color:white;
+	text-shadow: 1px 1px red;
+}

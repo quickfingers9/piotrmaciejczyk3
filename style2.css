@@ -1,0 +1,163 @@
+body
+{
+	background-image:url(img/tlo2.jpg);
+	background-attachment:fixed;
+		background-repeat:no-repeat;
+}
+
+.article
+{
+	margin: 0 auto;
+	width: 100%;
+}
+			
+.header
+{
+	color: white;
+	width: 100%;
+	height: 90px;
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 3px 5px black;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background-color:#bb5dff;
+}
+			
+.lewo
+{
+	width: 20%;
+	height:55%; ;
+	text-align: center;
+	float: left;
+	color: Yellow;
+	font-size: 25px;
+	font-family: "Verdana";
+
+}
+
+			
+.prawo
+{
+	color: yellow;
+	width: 20%;
+	height: 55%;;
+	text-align: center;
+	float: left;
+	font-size: 30px;
+	font-family: "Inconsolata";
+
+}
+.text
+{
+	width: 55%;
+	height:55%; ;
+	background-color: grey;
+	text-align: center;
+	float: left;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 20px;
+	font-family: monospace;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.foot
+{
+	background-color: #ed0261;
+	height: 40px;
+	width: 100%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 20px;
+	font-family: "Inconsolata";
+	clear: both;
+	text-align: center;
+}
+
+
+
+a:link
+{
+	color:#ed0261 ;
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+}
+
+a:visited
+{
+	color: #ed0261;
+	text-shadow: 1px 1px white;
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+}
+
+a:hover
+{
+	background-color: #1afbfc;
+	color: white;
+	font-size: 25px;
+	font-family: "Comic Sans MS";
+}
+
+a:active
+{
+	background-color: green;
+	color: #ff9000;
+	font-size: 25px;
+	font-family: "Comic Sans MS";
+}
+
+ul
+{
+	list-style-position: inside;
+}
+p
+{
+	text-align: left;
+}
+h2
+{
+	text-align: center;
+}
+
+h3
+{
+	text-align: center;
+	color:yellow;
+}	
+table
+{
+	color: white;
+	margin: auto;
+	border-style: groove;
+	background-color: #5A43F5;
+	border-color: #888888;
+	border-width: thick;
+	text-shadow: 1px 1px black;
+	text-align: center;
+}
+
+td
+{
+	border: double;
+	border-color: #888888;
+	border-width:medium;
+	text-align: center;
+	
+}
+.foto
+{width:100%;
+height:100%;
+margin-bottom:10px;
+}
+li 
+{ list-style-type:disc;
+}
+.img
+{width:60%;
+height:60%;
+margin-bottom:10px;
+border-radius:50%;
+}
